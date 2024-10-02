@@ -1,0 +1,17 @@
+site_name: "Tec+60: Turma de 2024"
+site_description: "Site da turma de 2024 do curso de extensão Tec+60 do IFRN campus Parnamirim"
+site_author: "Tec+60"
+site_url: "https://tec60.github.io/2024/"
+
+repo_url: "https://gitea.mange.ifrn.edu.br/tec60/turma-2024"
+edit_uri: "_edit/estudantes/docs/"
+
+theme:
+    name: material
+    language: pt
+
+plugins:
+    - search
+    - awesome-pages
+
+
