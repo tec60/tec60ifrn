@@ -28,8 +28,8 @@ language = 'pt_BR'
 
 html_logo = 'imagens/favicon.ico'
 html_favicon = 'imagens/favicon.ico'
-html_theme = 'furo'
-#html_theme = 'sphinx_book_theme'
+#html_theme = 'furo'
+html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
 html_title = html_short_title = project
