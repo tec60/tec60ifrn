@@ -10,8 +10,6 @@ theme:
     name: material
     language: pt
 
-plugins:
-    - search
 
 
 
