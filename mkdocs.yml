@@ -1,0 +1,8 @@
+site_name: Tec60 IFRN
+site_dir: /var/www/html
+
+theme:
+  name: material
+  language: pt
+
+
