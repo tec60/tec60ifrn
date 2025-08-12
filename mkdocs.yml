@@ -1,5 +1,5 @@
 site_name: Tec60 IFRN
-site_dir: /var/www/html
+site_dir: /var/www/html/teste
 
 theme:
   name: material
