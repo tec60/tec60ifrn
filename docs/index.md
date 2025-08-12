@@ -2,4 +2,4 @@
 
 Olá mundo!
 
-:+1:
+Vamos lá.
