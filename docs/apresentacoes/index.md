@@ -8,4 +8,4 @@
 *
 ```
 
-Você sabe o que é {term}`abaco`?
+Você sabe o que é {term}`ábaco`?
