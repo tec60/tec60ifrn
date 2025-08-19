@@ -1,0 +1,6 @@
+# Glossário 
+
+```{toctree}
+:glob:
+*
+```
