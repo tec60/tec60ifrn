@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Tec+60 de 2024'
-copyright = '2024, Tec+60'
+project = 'Tec+60 de 2025'
+copyright = '2025, Tec+60'
 author = 'Tec+60'
-release = '2024'
+release = '2025'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -38,9 +38,9 @@ html_theme_options = {
     "repository_url": "https://github.com/tec60/tec60ifrn",
     "repository_branch": "main",
     "use_edit_page_button": True,
-    "use_source_button": True,
-    "use_issues_button": True,
-    "use_repository_button": True,
-    "use_download_button": True
+    # "use_source_button": True,
+    # "use_issues_button": True,
+    # "use_repository_button": True,
+    # "use_download_button": True
 }
 
