@@ -11,5 +11,6 @@ Antes de colaborar com este site, por gentileza, leia o {ref}`codigo-de-conduta`
 apresentacoes/index.md
 blogs/index.md
 codigo-de-conduta.md
+glossario/index.md
 ```
 
