@@ -12,11 +12,13 @@ Olá! Seja bem-vindo(a) ao projeto Tec+60, edição 2025.
 :caption: 'Sumário:'
 :maxdepth: 1
 
+equipe.md
+cronograma/index.md
 apresentacoes/index.md
 blogs/index.md
 codigo-de-conduta.md
 glossario/index.md
-equipe/index.md
+
 ```
 
 

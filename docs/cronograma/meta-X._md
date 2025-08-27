@@ -1,0 +1,7 @@
+# Meta $META
+
+```{csv-table} Atividades da Meta $META
+:headers-row: 1
+:file: ../csv/meta-$META.csv
+```
+
