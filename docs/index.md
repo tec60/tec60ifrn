@@ -7,7 +7,7 @@ Olá! Seja bem-vindo(a) ao projeto Tec+60, edição 2025.
 <!-- Antes de colaborar com este site, por gentileza, leia o {ref}`codigo-de-conduta`. -->
 
 
-
+<!-- 
 ```{toctree}
 :caption: 'Sumário:'
 :maxdepth: 1
@@ -17,4 +17,5 @@ blogs/index.md
 codigo-de-conduta.md
 glossario/index.md
 ```
+-->
 
