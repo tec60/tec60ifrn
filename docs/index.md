@@ -16,6 +16,7 @@ apresentacoes/index.md
 blogs/index.md
 codigo-de-conduta.md
 glossario/index.md
+equipe/index.md
 ```
 
 
