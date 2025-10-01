@@ -11,3 +11,4 @@ As pedras são partes da terra feitas de rochas. Elas podem ser grandes, como mo
 ## Por Que as Pedras São Importantes?
 
 As pedras ajudam a formar montanhas, vales e até praias! Elas também são usadas para fazer coisas como casas, estradas e até joias. Então, as pedras estão em todo lugar e fazem parte do nosso mundo!
+oi
