@@ -15,10 +15,9 @@ Olá! Seja bem-vindo(a) ao projeto Tec+60, edição 2025.
 equipe.md
 cronograma/index.md
 apresentacoes/index.md
-blogs/index.md
+blog/index.md
+galeria/index.md
+noticias/index.md
 codigo-de-conduta.md
 glossario/index.md
-
 ```
-
-
