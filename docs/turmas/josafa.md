@@ -1,6 +1,6 @@
 # Turma do Josafá
 
-- Dias da semana: Sextas-feiras
+- Dia da semana: sextas-feira
 - Horário: das 09h30 às 11h00
 - Local: Laboratório de Informática da Escola Municipal Administrador Josafá Sisino de Machado
 
