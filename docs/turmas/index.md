@@ -3,9 +3,11 @@
 Oferecemos duas turmas:
 
 ```{toctree}
-:maxdepth: 1
-:caption: Sumário
-:glob:
+---
+maxdepth: 1
+# caption: Sumário
+glob: true
+---
 
 *
 ```
